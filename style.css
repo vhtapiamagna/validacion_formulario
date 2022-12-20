@@ -1,0 +1,47 @@
+.input-rojo {
+    background-color:#F7D7DA;
+    border: #bb2929 solid 1px;
+    
+}
+
+.texto-rojo {
+    color:#96305A;
+}
+
+.primer-texto {
+
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.formulario__input-error {
+    font-size: 12px;
+    margin-bottom: 0;
+    display:none ;
+}
+
+
+
+.formulario__input-error-activo {
+    display: block;
+    color: #bb2929;
+   
+}
+
+
+
+
+
+.form-control-incorrecto {
+    border: #bb2929 solid 1px;
+    opacity: 1;
+    background-color:#F7D7DA;
+    
+}
+.form-control-correcto {
+    border: green solid 1px;
+    opacity: 1;
+    background-color: rgba(0, 128, 0, 0.1) ;
+}
+
